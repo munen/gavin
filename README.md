@@ -43,6 +43,8 @@ go install suah.dev/gavin@latest
 ```
 gavin -davdir ~/org
 ```
+- Open the URL `gavin` shows when started up
+- Go to 'Sign in' -> 'WebDAV' and enter the above URL + `/dav` (for example http://localhost:8080/dav)  
 
 ### Running in auto ACME mode
 
